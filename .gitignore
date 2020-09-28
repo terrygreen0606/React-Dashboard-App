@@ -1,0 +1,21 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/build
+/src/Modules/Producer_View - Copy
+package-lock.json
+yarn.lock
+.env.backup
+.env
+.phpunit.result.cache
+.rnd
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea/workspace.xml
+/.idea
+.vscode
+vendor
+/vendor

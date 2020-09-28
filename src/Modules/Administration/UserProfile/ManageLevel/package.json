@@ -1,0 +1,7 @@
+{
+    "name": "ManageLevel",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ManageLevel.js"
+  }
+  

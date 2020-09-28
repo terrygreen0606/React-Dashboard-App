@@ -1,0 +1,6 @@
+{
+  "name": "DocumentList",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DocumentList.js"
+}

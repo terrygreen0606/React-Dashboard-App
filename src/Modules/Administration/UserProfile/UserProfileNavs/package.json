@@ -1,0 +1,6 @@
+{
+  "name": "UserProfileNavs",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./UserProfileNavs.js"
+}

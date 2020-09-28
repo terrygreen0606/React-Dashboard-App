@@ -1,0 +1,6 @@
+{
+  "name": "CommissionAccViewDetail",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CommissionAccViewDetail.js"
+}

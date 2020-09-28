@@ -1,0 +1,6 @@
+{
+  "name": "AgencyMailingAddress",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AgencyMailingAddress.js"
+}

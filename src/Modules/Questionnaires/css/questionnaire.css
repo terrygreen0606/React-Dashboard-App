@@ -1,0 +1,34 @@
+.simple-question {
+    background-color: lightgreen;
+}
+
+.options-question {
+    background-color: lightyellow;
+}
+
+.draggable {
+    border-radius: 5%;
+    border-width: 1px solid black;
+    box-shadow: 2px 2px;
+    padding-left: 5px;
+    margin: 5px;
+    min-height: 25px;
+
+}
+
+.question-buttons {
+    display: none;
+}
+
+.draggable:hover .question-buttons {
+    display: block;
+}
+
+.dragged {
+    min-width: 125px;
+    opacity: 0.7;
+}
+ 
+.placeholder {
+  opacity: 0.5;
+}

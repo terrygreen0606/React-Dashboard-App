@@ -1,0 +1,6 @@
+{
+  "name": "Rule",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ViewRule.js"
+}

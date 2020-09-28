@@ -1,0 +1,6 @@
+{
+  "name": "CommissionStatementDetail",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CommissionStatementDetail.js"
+}

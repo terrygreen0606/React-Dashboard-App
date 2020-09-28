@@ -1,0 +1,6 @@
+{
+  "name": "AUserList",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AUserList.js"
+}

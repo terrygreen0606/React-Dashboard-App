@@ -1,0 +1,6 @@
+{
+  "name": "AgencyMain",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AgencyMain.js"
+}

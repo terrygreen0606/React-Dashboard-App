@@ -1,0 +1,96 @@
+.error {
+    color: red;
+}
+.react-confirm-alert-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+    background:#9999 !important;   
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+    opacity: 0;
+    -webkit-animation: react-confirm-alert-fadeIn 0.5s 0.2s forwards;
+    -moz-animation: react-confirm-alert-fadeIn 0.5s 0.2s forwards;
+    -o-animation: react-confirm-alert-fadeIn 0.5s 0.2s forwards;
+    animation: react-confirm-alert-fadeIn 0.5s 0.2s forwards;
+  }
+  .custom-ui {
+    text-align: center;
+    width: 500px;
+    padding: 40px;
+    background: #ffff;
+    box-shadow: 0 20px 75px rgba(0, 0, 0, 0.23);
+    color: 'black';
+  }
+  
+  .custom-ui > h1 {
+    margin-top: 0;
+    color: 'red'
+  }
+  
+  .custom-ui > button {
+    width: 160px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+    cursor: pointer;
+    background: none;
+    color: #fff;
+    font-size: 14px;
+  }
+  .badge.badge-red {
+    background-color: 
+    #dc3545 !important;
+    border: 1px solid #dc3545;
+}
+.badge.badge-blue {
+    background-color: 
+    #007bff !important;
+    border: 1px solid #007bff;
+}
+.edit-account{
+  float: left;
+  cursor: pointer;
+}
+.search-account{
+  float: left;
+  cursor: pointer;
+  margin: 0px 10px 0px 15px;
+}
+.delete-account{
+  cursor: pointer;
+}
+
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { border-radius: 20px; }
+  .toggle.ios .toggle-handle { border-radius: 20px; }
+  .search-invoice {
+    margin-left: 35px;
+  }
+  .pay-button {
+    float: right;
+  }
+  .form-check-input-custome {
+    position: inherit !important;
+    margin-left: 25px !important;
+}
+.view-all{
+  float: right;
+  text-decoration: underline;
+}
+
+.commission-detail-modal .modal-dialog {
+  max-width: 95%;
+}
+
+.commission-detail-modal .modal-body {
+  padding: 1.5em 1em 1em 1em;
+}

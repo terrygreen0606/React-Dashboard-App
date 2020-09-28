@@ -1,0 +1,19 @@
+/*editor : Praweer @HP*/
+.react-bs-table-container-dochandler {
+    height:100%;
+    }
+    
+.react-bs-container-body-dochandler {
+max-height: 230px;
+overflow-y: scroll;
+}
+
+.react-bs-container-body-dochandler-documentlist{max-height: 600px;
+overflow-y: scroll;
+}
+
+.react-bs-container-body-dochandler-documentlistaddnew{max-height: 400px;
+    overflow-y: scroll;
+    }
+
+.modal-60w{width: 60% !important;}    

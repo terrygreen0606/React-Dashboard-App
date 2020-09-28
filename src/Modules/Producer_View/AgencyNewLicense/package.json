@@ -1,0 +1,6 @@
+{
+  "name": "AgencyNewLicense",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AgencyLicense.js"
+}
